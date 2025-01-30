@@ -3,7 +3,7 @@ I am Leonardo, a Back-end developer
 
 <ul style="padding-left: 16px">
     <li>
-    🌱 I’m currently studying <b>Golang</b> and <b>JavaScript</b>
+    🌱 I’m currently studying <b>Typescript</b> and <b>React</b>
     </li>
     <li>📫 You can also reach me at:</li>
 </ul>
@@ -13,5 +13,5 @@ I am Leonardo, a Back-end developer
 
 
 ## Languages and tools: 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,html,css,js,mongo,postgres,docker,git,,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,html,css,js,ts,react,npm,mongo,postgres,docker,git,,)](https://skillicons.dev)
 
