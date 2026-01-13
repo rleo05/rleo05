@@ -1,17 +1,18 @@
-## <p align=center>Hi there👋</p>
-I am Leonardo, a Back-end developer
+## <p align=center>Hey there👋</p>
+I am Leonardo, a Full-stack developer
 
 <ul style="padding-left: 16px">
-    <li>
-    🌱 I’m currently studying <b>Typescript</b> and <b>React</b>
-    </li>
     <li>📫 You can also reach me at:</li>
 </ul>
 
-[<img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465">](mailto:leonardo.rodriguesdev05@gmail.com)
-[<img src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">](https://www.linkedin.com/in/leonardo-rodrigues-9104b7323/)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:leonardo.rodriguesdev05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardorodrigues05)
 
 ## Languages and tools: 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,html,css,js,ts,react,npm,mongo,postgres,docker,git,,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,go,java,spring,react,angular,html,css,js,postgres,azure,docker,git,rabbitmq,aws,)](https://skillicons.dev)
 
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.6/app/ci.min.css"
+/>
